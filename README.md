@@ -3,8 +3,8 @@
 
 ##  What is it?
 ##  -----------
-Script make text zooming with fade_in and fade_out effect
-
+Script make text zooming with fade_in and fade_out effect.
+See for example out.mp4 in this project.
 
 ##  The Latest Version
 
@@ -15,7 +15,7 @@ Script make text zooming with fade_in and fade_out effect
 	
 
 ##  Installation
-You need installed ffmpeg ( http://ffmpeg.org/ ) and imagemagick
+You need installed ffmpeg ( http://ffmpeg.org/ ) and imagemagick  ( http://www.imagemagick.org/index.php ).
 
 		
 ##  Running
